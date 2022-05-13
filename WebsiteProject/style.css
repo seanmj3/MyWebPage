@@ -1,0 +1,12 @@
+* {
+    margin: 0; 
+    padding: 0;
+}
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(#1f2ce2d0, #ff7b00d2, url(Desktop/IMG_0541.jpeg));
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
